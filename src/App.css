@@ -1,9 +1,11 @@
 .App {
   width: 90%;
   margin: 0 auto;
-}
-.App:first h1 {
   text-align: center;
+}
+.header-text {
+  height: 70px;
+  padding: 20px 0 40px 0;
 }
 
 .App-logo {

@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>GitHub user card</h1>
+      <h1 className="header-text">GitHub user card</h1>
       <UserList />
     </div>
   );
